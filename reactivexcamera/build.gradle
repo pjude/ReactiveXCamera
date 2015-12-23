@@ -1,5 +1,6 @@
 apply plugin: 'com.android.library'
-//apply plugin: 'com.novoda.bintray-release'
+apply plugin: 'com.novoda.bintray-release'
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
@@ -26,13 +27,13 @@ dependencies {
     compile 'io.reactivex:rxjava:1.0.14'
 }
 
-//publish {
-//    userOrg = 'dubulee'
-//    groupId = 'com.github.dubulee'
-//    artifactId = 'reactivexcamera'
-//    publishVersion = '0.1.2'
-//    desc = 'Android ReactiveX Camera'
-//    website = 'https://github.com/DUBULEE/ReactiveXCamera'
-//    issueTracker = "${website}/issues"
-//    repository = "${website}.git"
-//}
+publish {
+    userOrg = 'dubulee'
+    groupId = 'com.github.dubulee'
+    artifactId = 'reactivexcamera'
+    publishVersion = '0.1.0'
+    desc = 'Android ReactiveX Camera'
+    website = 'https://github.com/DUBULEE/ReactiveXCamera'
+    issueTracker = "${website}/issues"
+    repository = "${website}.git"
+}

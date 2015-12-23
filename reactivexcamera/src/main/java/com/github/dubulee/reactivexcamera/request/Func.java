@@ -1,7 +1,7 @@
 package com.github.dubulee.reactivexcamera.request;
 
 /**
- * Created by ragnarok on 15/11/29.
+ * Created by dubulee on 15/12/23.
  */
 public interface Func {
     void call();
