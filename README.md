@@ -49,8 +49,7 @@ How to Use
           @Override
           public Observable<ReactiveXCamera> call(ReactiveXCamera rxCamera) {
               return rxCamera.bindTexture(textureView);
-              // or bind a SurfaceView:
-              // rxCamera.bindSurface(SurfaceView)
+              // or bind a SurfaceView
           }
     }).flatMap(new Func1<ReactiveXCamera, Observable<ReactiveXCamera>>() {
           @Override
