@@ -20,7 +20,7 @@ dependencies {
 
 How to Use
 -----------
-1. set the camera parameter by choose a [ReactiveXCameraConfig]which created by [RxCameraConfigChooser]
+1. set the camera parameter by choose a [ReactiveXCameraConfig]which created by [ReactiveXCameraConfigChooser]
 	
 	```Java
 	ReactiveXCameraConfig config = ReactiveXCameraConfigChooser.obtain().
@@ -31,7 +31,7 @@ How to Use
             setHandleSurfaceEvent(true).
             get();
 	```
-	for all camera currently support, please see [RxCameraConfig]
+	for all camera currently support, please see [ReactiveXCameraConfig]
 	
 2. open camera
 	
