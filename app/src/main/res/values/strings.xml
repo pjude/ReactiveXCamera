@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ReactiveXCameraSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="show_log">Show Log</string>
+    <string name="successive_data">SuccessiveData</string>
+    <string name="periodic_data">PeriodicData</string>
+    <string name="one_shot">OneShot</string>
+    <string name="take_picture">TakePicture</string>
+</resources>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="runtimepermissionshelper-0.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.dubulee/runtimepermissionshelper/0.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.dubulee/runtimepermissionshelper/0.1.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.dubulee/runtimepermissionshelper/0.1.1/932f0a5c5dc3809c6593acec4a687056228106fd/runtimepermissionshelper-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
