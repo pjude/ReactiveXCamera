@@ -1,7 +1,7 @@
 package com.github.dubulee.reactivexcamera.error;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  * throw this exception if open camera failed
  */
 public class OpenCameraException extends Exception {
