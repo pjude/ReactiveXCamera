@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  * the internal logic of camera
  */
 public class ReactiveXCameraInternal implements SurfaceCallback.SurfaceListener, Camera.PreviewCallback {
