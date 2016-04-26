@@ -15,7 +15,7 @@ import rx.Subscriber;
 import rx.functions.Func1;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  * The ReactiveXCamera library interface
  */
 public class ReactiveXCamera {
