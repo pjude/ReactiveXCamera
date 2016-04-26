@@ -10,7 +10,7 @@ import android.view.WindowManager;
 import java.util.List;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  * some utilities for retrieve system camera config
  */
 public class CameraUtil {
