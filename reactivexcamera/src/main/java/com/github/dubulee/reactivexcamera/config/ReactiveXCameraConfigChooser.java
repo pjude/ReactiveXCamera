@@ -4,7 +4,7 @@ import android.graphics.Point;
 import android.hardware.Camera;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  * a config chooser for ReactiveXCamera, after finish choosing the config,
  * return a {@link ReactiveXCameraConfig} object
  */
