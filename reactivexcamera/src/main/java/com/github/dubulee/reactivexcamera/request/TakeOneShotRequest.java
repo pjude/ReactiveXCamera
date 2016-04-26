@@ -10,7 +10,7 @@ import rx.Subscriber;
 import rx.functions.Action0;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  */
 public class TakeOneShotRequest extends BaseRxCameraRequest implements OnReactiveXCameraPreviewFrameCallback {
 
