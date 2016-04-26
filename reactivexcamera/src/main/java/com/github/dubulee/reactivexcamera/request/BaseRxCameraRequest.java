@@ -6,7 +6,7 @@ import com.github.dubulee.reactivexcamera.ReactiveXCameraData;
 import rx.Observable;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  */
 public abstract class BaseRxCameraRequest {
 
