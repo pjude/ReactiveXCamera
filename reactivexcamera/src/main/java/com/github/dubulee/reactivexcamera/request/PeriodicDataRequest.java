@@ -14,7 +14,7 @@ import rx.functions.Action0;
 import rx.schedulers.Schedulers;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  */
 public class PeriodicDataRequest extends BaseRxCameraRequest implements OnReactiveXCameraPreviewFrameCallback {
 
