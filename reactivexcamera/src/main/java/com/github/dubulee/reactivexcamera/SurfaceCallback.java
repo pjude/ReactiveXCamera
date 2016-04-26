@@ -5,7 +5,7 @@ import android.view.SurfaceHolder;
 import android.view.TextureView;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  */
 class SurfaceCallback implements SurfaceHolder.Callback, TextureView.SurfaceTextureListener {
 
