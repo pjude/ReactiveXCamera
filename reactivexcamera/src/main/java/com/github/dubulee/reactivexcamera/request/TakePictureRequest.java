@@ -11,7 +11,7 @@ import rx.Subscriber;
 import rx.functions.Action1;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  */
 public class TakePictureRequest extends BaseRxCameraRequest {
 
