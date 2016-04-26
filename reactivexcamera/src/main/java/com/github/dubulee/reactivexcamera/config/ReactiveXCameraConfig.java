@@ -3,7 +3,7 @@ package com.github.dubulee.reactivexcamera.config;
 import android.graphics.Point;
 
 /**
- * Created by dubulee on 15/12/23.
+ * Created by mugku on 15/12/23.
  * store the config of camera, you must set the config from {@link ReactiveXCameraConfigChooser}
  */
 public class ReactiveXCameraConfig {
